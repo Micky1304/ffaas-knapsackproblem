@@ -1,0 +1,3 @@
+rcsD
+bazel-out/k8-opt/bin/knapsacksolver/libgenerator.a
+bazel-out/k8-opt/bin/knapsacksolver/_objs/generator/generator.o

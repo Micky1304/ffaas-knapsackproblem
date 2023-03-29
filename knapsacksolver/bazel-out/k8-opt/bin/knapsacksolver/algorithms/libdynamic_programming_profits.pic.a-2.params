@@ -1,0 +1,3 @@
+rcsD
+bazel-out/k8-opt/bin/knapsacksolver/algorithms/libdynamic_programming_profits.pic.a
+bazel-out/k8-opt/bin/knapsacksolver/algorithms/_objs/dynamic_programming_profits/dynamic_programming_profits.pic.o

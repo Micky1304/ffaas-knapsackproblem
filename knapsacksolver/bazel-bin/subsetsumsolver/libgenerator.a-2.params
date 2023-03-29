@@ -1,0 +1,3 @@
+rcsD
+bazel-out/k8-opt/bin/subsetsumsolver/libgenerator.a
+bazel-out/k8-opt/bin/subsetsumsolver/_objs/generator/generator.o

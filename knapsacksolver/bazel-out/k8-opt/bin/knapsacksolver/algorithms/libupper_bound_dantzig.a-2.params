@@ -1,0 +1,3 @@
+rcsD
+bazel-out/k8-opt/bin/knapsacksolver/algorithms/libupper_bound_dantzig.a
+bazel-out/k8-opt/bin/knapsacksolver/algorithms/_objs/upper_bound_dantzig/upper_bound_dantzig.o

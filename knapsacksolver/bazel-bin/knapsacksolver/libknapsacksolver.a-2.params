@@ -1,0 +1,4 @@
+rcsD
+bazel-out/k8-opt/bin/knapsacksolver/libknapsacksolver.a
+bazel-out/k8-opt/bin/knapsacksolver/_objs/knapsacksolver/instance.o
+bazel-out/k8-opt/bin/knapsacksolver/_objs/knapsacksolver/solution.o

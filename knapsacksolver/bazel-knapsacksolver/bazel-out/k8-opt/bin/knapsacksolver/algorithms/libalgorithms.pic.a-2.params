@@ -1,0 +1,3 @@
+rcsD
+bazel-out/k8-opt/bin/knapsacksolver/algorithms/libalgorithms.pic.a
+bazel-out/k8-opt/bin/knapsacksolver/algorithms/_objs/algorithms/algorithms.pic.o
