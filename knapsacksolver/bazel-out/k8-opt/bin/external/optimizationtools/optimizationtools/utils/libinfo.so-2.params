@@ -1,0 +1,12 @@
+-shared
+-o
+bazel-out/k8-opt/bin/external/optimizationtools/optimizationtools/utils/libinfo.so
+-fuse-ld=gold
+-Wl,-no-as-needed
+-Wl,-z,relro,-z,now
+-B/usr/bin
+-pass-exit-codes
+-Wl,--gc-sections
+bazel-out/k8-opt/bin/external/optimizationtools/optimizationtools/utils/_objs/info/info.pic.o
+-lstdc++
+-lm

@@ -1,0 +1,3 @@
+rcsD
+bazel-out/k8-opt/bin/knapsacksolver/algorithms/libdynamic_programming_primal_dual.a
+bazel-out/k8-opt/bin/knapsacksolver/algorithms/_objs/dynamic_programming_primal_dual/dynamic_programming_primal_dual.o

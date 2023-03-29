@@ -1,0 +1,3 @@
+rcsD
+bazel-out/k8-opt/bin/subsetsumsolver/algorithms/libdynamic_programming_bellman.pic.a
+bazel-out/k8-opt/bin/subsetsumsolver/algorithms/_objs/dynamic_programming_bellman/dynamic_programming_bellman.pic.o

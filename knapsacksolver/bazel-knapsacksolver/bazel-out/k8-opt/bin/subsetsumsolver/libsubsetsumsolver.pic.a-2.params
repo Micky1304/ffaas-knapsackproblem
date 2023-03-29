@@ -1,0 +1,4 @@
+rcsD
+bazel-out/k8-opt/bin/subsetsumsolver/libsubsetsumsolver.pic.a
+bazel-out/k8-opt/bin/subsetsumsolver/_objs/subsetsumsolver/instance.pic.o
+bazel-out/k8-opt/bin/subsetsumsolver/_objs/subsetsumsolver/solution.pic.o

@@ -1,0 +1,3 @@
+rcsD
+bazel-out/k8-opt/bin/knapsacksolver/algorithms/libbranch_and_bound.pic.a
+bazel-out/k8-opt/bin/knapsacksolver/algorithms/_objs/branch_and_bound/branch_and_bound.pic.o

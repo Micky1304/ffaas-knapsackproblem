@@ -1,0 +1,3 @@
+rcsD
+bazel-out/k8-opt/bin/knapsacksolver/algorithms/libsurrogate_relaxation.pic.a
+bazel-out/k8-opt/bin/knapsacksolver/algorithms/_objs/surrogate_relaxation/surrogate_relaxation.pic.o

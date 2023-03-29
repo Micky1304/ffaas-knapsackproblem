@@ -1,0 +1,3 @@
+rcsD
+bazel-out/k8-opt/bin/knapsacksolver/libtester.pic.a
+bazel-out/k8-opt/bin/knapsacksolver/_objs/tester/tester.pic.o
